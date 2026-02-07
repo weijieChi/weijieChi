@@ -37,7 +37,8 @@
 ---
 
 ### **個人檔案 Profile**  
-[LinkedIn](www.linkedin.com/in/weijiechi) | [Cake](https://www.cake.me/s--opclqfgEvR_VvNGXEYgoSw--/weijie-dee026-1f125e)
+[LinkedIn](https://www.linkedin.com/in/weijiechi) | [Cake](https://www.cake.me/s--opclqfgEvR_VvNGXEYgoSw--/weijie-dee026-1f125e)
+
 
 
 
