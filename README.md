@@ -81,3 +81,4 @@ and OAuth login is integrated using official SDKs.
 
 ## 個人檔案 Profile
 - LinkedIn: https://www.linkedin.com/in/weijiechi
+- Cake: https://www.cake.me/s--YFKuVr_x8W1qRmu4wzyLZg--/weijie-dee026
